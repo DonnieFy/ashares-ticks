@@ -1,0 +1,3 @@
+easyquotation
+pandas
+requests
