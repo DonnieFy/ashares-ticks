@@ -1,26 +1,3 @@
-# 数据文件
-data/
-
-# 日志文件
-logs/
-
-# Python 缓存
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# 虚拟环境
-.venv/
-venv/
-env/
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# 系统文件
-.DS_Store
-Thumbs.db
+/data/
+/logs/
+/__pycache__/
